@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Icylic025
+- 👋 Hi, I’m @Icylic025, 
 - 👀 I’m interested in creating more projects and stuff
-- 🌱 I’m a first year science student at UBC.
+- 🌱 I’m a second year computer science student at UBC.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: ?
 - 😄 Pronouns: she/her
