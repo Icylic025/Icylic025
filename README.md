@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything and everything
 - 📫 How to reach me: kyliewang025@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: Github is not setup yet, i have no idea what i'm doing
+- ⚡ Fun fact: Github is not set up yet, i have no idea what i'm doing
 
 <!---
 Icylic025/Icylic025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
